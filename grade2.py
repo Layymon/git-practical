@@ -8,6 +8,7 @@ print("Student Name:", name)
 print("Total Mark:", total)
 print("Average Mark:", average)
 print("Successfully printed!")
+print("Clone Updated")
 
 if average >= 50:
     print("Result: Pass")
